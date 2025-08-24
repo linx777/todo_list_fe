@@ -88,7 +88,7 @@ export default function HomePage() {
       </div>
 
       {/* Task List or Empty State */}
-      <div className="w-full max-w-2xl mt-10">
+      <div className="w-full max-w-2xl mt-10 mb-30">
         {tasks.length === 0 ? (
           <div className="text-center">
             <div className="text-gray-500 text-7xl mb-6">📋</div>
