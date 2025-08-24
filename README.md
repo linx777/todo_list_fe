@@ -2,6 +2,12 @@
 
 A modern React/Next.js todo application with reusable components and comprehensive testing.
 
+## 🎥 Demo
+
+**Watch the app in action:** [Quick Demo Video](https://www.loom.com/share/466392e87069430685f71cd6d5f4023c?sid=7c669f70-24d3-4861-bd2a-35b98f855d38)
+
+*See the full functionality including task creation, editing, and deleting.*
+
 ## ⚡ Quick Start
 
 ### 📋 Prerequisites
